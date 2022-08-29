@@ -1,1 +1,1 @@
-_My name is *Oluwaferanmi*, this is my first repository of the first task of your first School project._
+_My name is **Oluwaferanmi**, this is my first repository of the first task of your first School project._
